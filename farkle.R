@@ -16,8 +16,6 @@ k <- farkle_probs %>%
 
 k
 
-?summarise
-
 farkle(score, dice) {
         if (dice == 6) {
                 if (score > ) {
